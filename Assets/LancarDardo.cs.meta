@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cceb65cbf3666154ba92d71a96cb875a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabDardo: {fileID: 100000, guid: 550a61d9929e19749851330ea8c46ecd, type: 3}
+  - pontoLancar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
